@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sheldonvaughn
 - 👀 I’m interested in writing code in test and production environments to become a better engineer. 
-- 🌱 I’m currently learning PHP, and various JavaScript frameworks. 
+- 🌱 I’m currently learning various JavaScript stuffs and helping out with the WorkOS PHP SDK. 
 - 💞️ I’m looking to collaborate on literally anything you'll let me work on.
 - 📫 call me beep me if you wanna reach me. Or just e-mail sheldonvaughn455@gmail.com
 
